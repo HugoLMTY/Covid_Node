@@ -1,0 +1,33 @@
+<h2> Vaccinated ppl </h2>
+
+<table>
+
+    <thead>
+        <tr>
+            <th>
+                Location
+            </th>
+            <th>
+                Total vaccines
+            </th>
+            <th>
+                Date
+            </th>
+        </tr>
+
+        <% Vaccines.forEach(vaccine => { %>      
+        <tr style="border: 1px black;">
+            <th>
+                <%= vaccine.name %>
+            </th>
+            <th>
+                <%= vaccine.totalVaccines %>
+            </th>
+            <th>
+                <%= vaccine.InfoDate %>
+            </th>
+        </tr>
+        <% }) %>
+
+        </thead>
+    </table>
