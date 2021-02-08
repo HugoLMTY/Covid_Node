@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "60172ae3be6bdf51fc9265c7"
+  },
+  "name": "hash",
+  "mail": "c@c.c",
+  "password": "$2b$10$DBCf7k2fX5JDsR3cebF.8Oig0s.VdFGUecg99F0YsUbVNQhlPImG2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601922c9071e8853740448fe"
+  },
+  "name": "krkr",
+  "mail": "a@a",
+  "password": "adm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601abdcf6a56914db8a3f7c4"
+  },
+  "name": "rzqrq",
+  "mail": "a@f",
+  "password": "$2b$10$kBIPKHpRMCaXl8B6A9J.eeavhaCtDbsI6u3fVfdbP3sShBHgJ/ka2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601abe8e15994939a444825c"
+  },
+  "name": "adm",
+  "mail": "z@z",
+  "password": "$2b$10$J/UMLXZfmQX7oRDpXQFxl.vBqXAfJpW70N8U69SC4TMEJohCZY3ES",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601acf84677fc91f9c96eb0b"
+  },
+  "name": "testMail",
+  "mail": "a@b",
+  "password": "$2b$10$/6ecwYiJcYgM0DqxRWGMlOxVJ7vhUBYKRAW6Qf02mOKO6/0FSPkAe",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601ae53d6eedd84f80cc6acc"
+  },
+  "name": "test",
+  "mail": "a@asegseg",
+  "password": "$2b$10$0a1Ib0ebXK.GtCvrvPhQTOGPr.Fo.fLzvmz.4.8FeUDOLCOkXXWv2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601cb7cd9201762bdc885b5a"
+  },
+  "name": "redirect",
+  "mail": "a@aa",
+  "password": "$2b$10$GGt.mW..gZY0b74F.JTmBujqNs6fqPNTG8QMbGK9AJ18V3JPGy0eu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601cb7e59201762bdc885b5b"
+  },
+  "name": "mdp",
+  "mail": "a@mdp",
+  "password": "$2b$10$JxBKOIT5y1GRKkBETMV9k.3htyfSkXvQu/nmYYdj7kaoXjEcQBeoi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602068f8ed8f0b3ca0133988"
+  },
+  "name": "compte1",
+  "mail": "z@a",
+  "password": "$2b$10$w6HQPMgSCwnY4EAfvpBmfeQBXbBM5xhAE4WK0WvdZ32HH0KPJAiRa",
+  "__v": 0
+}]

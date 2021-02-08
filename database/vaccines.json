@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "601d61e0387e405764443fbb"
+  },
+  "name": "THCovid",
+  "totalVaccines": 420,
+  "code": 6969,
+  "date": {
+    "$date": "2008-04-20T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601ff4caf26e1d2ad4018e8a"
+  },
+  "name": "Curling 19",
+  "totalVaccines": 159,
+  "code": 13876,
+  "date": {
+    "$date": "2021-07-10T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60204dfe31b3b70540f81509"
+  },
+  "name": "RBG Gaming Vax 4K Edititon",
+  "totalVaccines": 3,
+  "code": 1337,
+  "date": {
+    "$date": "2021-02-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60204ed9818aa23660578e2a"
+  },
+  "name": "DrinkSanitizer3000",
+  "totalVaccines": 1,
+  "code": 80085,
+  "date": {
+    "$date": "2020-12-25T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60204efd818aa23660578e2c"
+  },
+  "name": "Microship",
+  "totalVaccines": 710,
+  "code": 23666,
+  "date": {
+    "$date": "2020-10-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602068e3ed8f0b3ca0133985"
+  },
+  "name": "Vax1",
+  "totalVaccines": 123,
+  "code": 123123,
+  "date": {
+    "$date": "2021-02-07T00:00:00Z"
+  },
+  "__v": 0
+}]

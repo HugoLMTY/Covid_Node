@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "601cc0573f7e611f281a0fe2"
+  },
+  "user1": "601922c9071e8853740448fe",
+  "user2": "601cb7e59201762bdc885b5b",
+  "status": "accepted",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601cccded097453adcf7bae1"
+  },
+  "user1": "601cb7e59201762bdc885b5b",
+  "user2": "601abdcf6a56914db8a3f7c4",
+  "status": "sent",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60202591a203b92c9800a87b"
+  },
+  "user1": "601cb7e59201762bdc885b5b",
+  "user2": "601acf84677fc91f9c96eb0b",
+  "status": "sent",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602042a95c31972bd8480eca"
+  },
+  "user1": "601cb7cd9201762bdc885b5a",
+  "user2": "601abe8e15994939a444825c",
+  "status": "sent",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602042f75c31972bd8480ecb"
+  },
+  "user1": "601cb7cd9201762bdc885b5a",
+  "user2": "601922c9071e8853740448fe",
+  "status": "sent",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60205ae2ed8f0b3ca0133982"
+  },
+  "user1": "601922c9071e8853740448fe",
+  "user2": "601abdcf6a56914db8a3f7c4",
+  "status": "sent",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60206909ed8f0b3ca0133989"
+  },
+  "user1": "602068f8ed8f0b3ca0133988",
+  "user2": "601abe8e15994939a444825c",
+  "status": "sent",
+  "__v": 0
+}]

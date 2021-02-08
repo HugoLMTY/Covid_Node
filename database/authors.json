@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "602043655c31972bd8480ecd"
+  },
+  "name": "Je suis pas content",
+  "age": 18,
+  "status": "Plainte",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602043b10b39db1bf89535fd"
+  },
+  "name": "Je pense que je suis pas content",
+  "age": 21,
+  "status": "Avis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6020447a0b39db1bf8953601"
+  },
+  "name": "Mardi dernier j'ai acheté des fourrés au jambon a Leclerc, je ne pensais pas qu'il y avait du gruyère à l'intérieur. Étant intolérant au lactose je suis maintenant malade. L O L ",
+  "age": 62,
+  "status": "Autre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602047110b39db1bf8953603"
+  },
+  "name": "Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres. Des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seul chez moi. Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée... Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l’interlocuteur en face je dirais, le miroir qui vous aide à avancer",
+  "age": 42,
+  "status": "Avis",
+  "__v": 0
+}]
