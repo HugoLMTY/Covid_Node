@@ -1,10 +1,11 @@
-<h2> epic new stuff </h2>
-
+<h2 style="text-align: center;"> New Vax </h2>
+<br>
 
 <form action="/vaccines" method="POST">
 
-    <%- include('_form_fields') %>
-
-    <a href="/vaccination">Annuler</a>
-    <button type="submit">Créer</button>
+    <%- include('form_fields') %>
+    <br>
+    
+    <a href="/vaccines" class="btn btn-secondary">Annuler</a>
+    <button type="submit" class="btn btn-context">Créer</button>
 </form>

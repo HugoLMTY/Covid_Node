@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
-const vaccineSchema = new mongoose.Schema({
-    name: {
+const regionSchema = new mongoose.Schema({
+    nom: {
         type: String,
         required: true
     },
@@ -12,15 +12,14 @@ const vaccineSchema = new mongoose.Schema({
     },
 
     code: {
-        type: Number,
+        type: String,
         required: true
     },
 
     date: {
-        type: Date,
-        required: false,
-        default: Date.now
+        type: String,
+        required: false
     }
 })
 
-module.exports = mongoose.model('Vaccine', vaccineSchema)
+module.exports = mongoose.model('Region', regionSchema)

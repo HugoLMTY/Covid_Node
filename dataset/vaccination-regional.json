@@ -1,0 +1,1622 @@
+[
+  {
+    "date": "2021-01-11",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 96
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 283
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 30248
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 4529
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 7114
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 12559
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 10190
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 11895
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 7002
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 4534
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 17068
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 12582
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 12438
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 6951
+  },
+  {
+    "date": "2021-01-11",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 988
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 96
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 283
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 40696
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 6429
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 9762
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 15645
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 13280
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 15648
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 9578
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 7272
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 22376
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 17779
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 18504
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 11392
+  },
+  {
+    "date": "2021-01-12",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 1094
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 197
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 376
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 50881
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 8085
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 14102
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 18971
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 17763
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 20692
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 12354
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 10574
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 28428
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 23743
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 24979
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 14769
+  },
+  {
+    "date": "2021-01-13",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 1252
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 187
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 452
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 29
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 61173
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 9836
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 18422
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 23599
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 24870
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 28256
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 15326
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 13967
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 34689
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 31897
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 32705
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 21372
+  },
+  {
+    "date": "2021-01-14",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 1436
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 345
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 551
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 76
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 305
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 72491
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 12193
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 22405
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 29060
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 29895
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 35802
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 17780
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 17659
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 42287
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 39278
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 41494
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 25510
+  },
+  {
+    "date": "2021-01-15",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 1599
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 430
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 684
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 117
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 305
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 77012
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 12722
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 24638
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 30907
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 31474
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 38633
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 18471
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 18662
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 43949
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 41537
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 43340
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 28408
+  },
+  {
+    "date": "2021-01-16",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 1757
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 430
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 728
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 145
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 336
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 77897
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 13017
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 24805
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 31488
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 32494
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 39131
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 18833
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 18911
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 44767
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 42287
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 45378
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 29322
+  },
+  {
+    "date": "2021-01-17",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 2158
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 430
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 739
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 145
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 408
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 87118
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 15301
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 28747
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 35905
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 36537
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 44021
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 20515
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 21645
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 52036
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 49087
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 51631
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 33262
+  },
+  {
+    "date": "2021-01-18",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 2346
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 588
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 1726
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 198
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 702
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 101920
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 19363
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 34782
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 45199
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 46444
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 49888
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 25187
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 25598
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 64465
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 57247
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 63597
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 45978
+  },
+  {
+    "date": "2021-01-19",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 2782
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 781
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 1030
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 348
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 1014
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 119695
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 22808
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 42588
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 50603
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 55219
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 60675
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 31167
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 31313
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 73498
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 69616
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 77667
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 51207
+  },
+  {
+    "date": "2021-01-20",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 3548
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 781
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 1169
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 477
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 1461
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 131964
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 28877
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 52195
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 57288
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 67367
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 72943
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 37332
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 38524
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 89139
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 84201
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 90883
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 64784
+  },
+  {
+    "date": "2021-01-21",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 4182
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 1085
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 1298
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 581
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 1990
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 156132
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 39609
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 59612
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 59865
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 77140
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 85632
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 48449
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 47473
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 104256
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 96615
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 104232
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 74592
+  },
+  {
+    "date": "2021-01-22",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 4578
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 1229
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 1522
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 647
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 2156
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 167597
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 40480
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 63312
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 61513
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 81878
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 86973
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 52380
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 50857
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 106040
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 100080
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 110047
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 76681
+  },
+  {
+    "date": "2021-01-23",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 5328
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 1299
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 1643
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 1651
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 2156
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 169828
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 40652
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 63626
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 62056
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 83416
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 88633
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 54279
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 51086
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 108913
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 101316
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 111416
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 79573
+  },
+  {
+    "date": "2021-01-24",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 5328
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "totalVaccines": 1299
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-02",
+    "nom": "Martinique",
+    "totalVaccines": 1693
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-03",
+    "nom": "Guyane",
+    "totalVaccines": 647
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "totalVaccines": 2378
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "totalVaccines": 0
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "totalVaccines": 177058
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "totalVaccines": 44110
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "totalVaccines": 68458
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-28",
+    "nom": "Normandie",
+    "totalVaccines": 66581
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "totalVaccines": 88929
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "totalVaccines": 93752
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "totalVaccines": 57039
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "totalVaccines": 55025
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "totalVaccines": 118533
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "totalVaccines": 109005
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "totalVaccines": 118972
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "totalVaccines": 84011
+  },
+  {
+    "date": "2021-01-25",
+    "code": "REG-94",
+    "nom": "Corse",
+    "totalVaccines": 5468
+  }
+]

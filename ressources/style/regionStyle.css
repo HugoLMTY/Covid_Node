@@ -1,0 +1,10 @@
+#regionHolder{
+    height: 690px;
+    overflow-y: scroll;
+}
+
+.regionInfos th{
+    text-align: center; 
+    width: 300px; 
+    font-size: 1.2em;
+}

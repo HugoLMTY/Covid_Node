@@ -1,0 +1,77 @@
+<div class="row">
+    <div class="col-8">
+
+        <!-- NAME -->
+        <label for="RegionName" class="form-label">Nom</label>
+        <select name="RegionNom" id="selectRegionNom" class="form-control">
+            <option value="">-</option>
+            <% Noms.forEach(nom => { %>  
+                <% if (nom == currentNom) { %>
+                <option selected value="<%= nom %>"><%= nom %></option>
+                <% } else { %>
+                <option value="<%= nom %>"><%= nom %></option>
+                <% }}) %>
+        </select>
+
+        <br>
+    
+    </div>
+    <div class="col-4">
+        
+        <!-- CODE -->
+        <label for="RegionCode" class="form-label">Code</label>
+        <select name="RegionCode" id="selectRegionCode" class="form-control"> class="form-control"
+            <option value="">-</option>
+            <% Codes.forEach(code => { %>  
+                <% if (code == currentCode) { %>
+                <option selected value="<%= code %>"><%= code %></option>
+                <% } else { %>
+                <option value="<%= code %>"><%= code %></option>
+                <% }}) %>
+        </select>
+        <br>
+    </div>
+
+
+    <div class="col-6">
+        <!-- SORTING -->
+        <label for="RegionSort" class="form-label">Trier Par</label>
+        <select id="selectRegionSorting" name="RegionSort" class="form-control">
+
+            <option selected value="<%= currentSorting %>"><%= currentSort %></option>
+
+            <option value="sort_nom_">Nom ↓</option>
+            <option value="sort_nom">Nom ↑</option>
+            <option value="sort_vaccins_">Nb de vaccins ↓</option>
+            <option value="sort_vaccins">Nb de vaccins ↑</option>
+            <option value="sort_code_">Code ↓</option>
+            <option value="sort_code">Code ↑</option>
+            <option value="sort_date_">Date ↓</option>
+            <option value="sort_date">Date ↑</option>
+
+        </select>
+        <br>
+    </div>
+
+    <div class="col-6">
+        <!-- SELECT DATE -->
+        <label for="RegionDate" class="form-label">Date</label>
+        <select id="selectRegionDate" 
+        class="form-control"
+        name="RegionDate">
+
+        <option value="">-</option>
+            <% Dates.forEach(date => { %>  
+                <% if (date == currentDate) { %>
+                <option selected value="<%= date %>"><%= date %></option>
+                <% } else { %>
+                <option value="<%= date %>"><%= date %></option>
+                <% }}) %>
+        </select>
+        <br>
+    </div>
+
+    
+</div>
+
+

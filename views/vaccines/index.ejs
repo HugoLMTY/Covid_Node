@@ -1,33 +1,73 @@
-<h2> Vaccinated ppl </h2>
 
-<table>
+<h2 style="text-align: center;"> Epic Vax </h2>
+<br>
+<br>
+<a class="btn btn-context" style="width:150px; margin-right: 10px;" href="/vaccines/new">Nouveau vax</a>
 
-    <thead>
-        <tr>
-            <th>
-                Location
-            </th>
-            <th>
-                Total vaccines
-            </th>
-            <th>
-                Date
-            </th>
-        </tr>
+<a class="btn btn-secondary" style="width:150px" href="/vaccines/"><i class="bi bi-arrow-counterclockwise"></i> - Rafraîchir</a>
+<br>
+<br>    
+<div class="container">
+    <div id="" style="margin-left:20%;">
+        <table>
+            <thead>
+                <tr class="regionInfos">
+                    <th style="width: 210px;"> Nom </th>
+                    <th style="width: 210px;"> Vaccins </th>
+                    <th style="width: 200px;"> Code </th>
+                    <th style="width: 100px;"> Date </th>
+                </tr>
+            </thead>
 
-        <% Vaccines.forEach(vaccine => { %>      
-        <tr style="border: 1px black;">
-            <th>
-                <%= vaccine.name %>
-            </th>
-            <th>
-                <%= vaccine.totalVaccines %>
-            </th>
-            <th>
-                <%= vaccine.InfoDate %>
-            </th>
-        </tr>
-        <% }) %>
+            <tbody>
+              
+              <% Vaccines.forEach(vaccine => { %>      
+                <form action="/vaccines/edit" method="POST" >
+                <tr>
+                    <input type="text" value="<%= vaccine.id %>" name="VaxListID" style="display: none;">
+                    <th> <%= vaccine.name %> </th>
+                    <th style="text-align: center;"> <%= vaccine.totalVaccines %> </th>
+                    <th style="text-align: center;"> <%= vaccine.code %> </th>
+                    <th> <%= vaccine.date == null ? '' : vaccine.date.toISOString().split('T')[0] %> %> </th>
+                    <th> 
+                      <button type="submit" value="edit" name="VaxListAction" class="btn btn-context">
+                          Editer
+                      </button> 
+                      <button type="button" data-toggle="modal" data-target="#<%= vaccine.id %>" class="btn btn-secondary">
+                          Supprimer
+                      </button> 
+                  </th>
+                </tr>
+              <!-- VACCINE DELETE MODAL -->
+                <div class="modal fade" id="<%= vaccine.id %>" tabindex="-1" role="dialog" aria-labelledby="vaccineDeleteModalTitle" aria-hidden="true">
+                  <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="vaccineDeleteModalTitle">Valider la suppresion</h5>
+                        <button type="button" class="btn close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        Etes-vous sur de vouloir supprimer cette entrée?<br>
+                        Cette action est irreversible
+                      </div>
+                      <div class="modal-footer">
+                          <a type="button" class="btn btn-secondary"  data-dismiss="modal" href="#">Annuler</a>
+                          <button type="submit" value="delete" name="VaxListAction" class="btn btn-context">
+                            Confirmer
+                        </button> 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </form>
+              <!-- VACCINE END MODAL -->
+                <% }) %>
 
-        </thead>
-    </table>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

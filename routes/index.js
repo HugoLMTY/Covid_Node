@@ -4,7 +4,14 @@ const Vaccine = require('../models/Vaccine')
 
 
 router.get('/', (req, res) => {
-    res.render('index')
+    if (req.cookies['uid'] != undefined)
+    {
+        res.render('index', {
+            isConnected: true
+        })
+    } else {
+        res.render('index')
+    }
 })
 
 

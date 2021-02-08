@@ -1,4 +1,38 @@
-<label>Nom</label>
-<input type="text" name="name" value="<%= author.name %>">
+<div class="row">
+    <div class="col">
+        <!-- NAME -->
+        <label for="authorsInputName" class="form-label">Nom</label>
+        <textarea id="authorsInputName" type="text" 
+                class="form-control"
+                name="name" value="<%= author.name %>"></textarea>
+        <br>
+    </div>
+    <div class="col">
+            
+        <!-- AGE -->
+        <label for="authorsInputAge" class="form-label">Âge</label>
+        <input id="authorsInputAge" type="number" 
+                class="form-control"
+                name="age" min="1" max="99" value="<%= author.age %>">
+        <br>
+
+    </div>
+    <div class="col">
+            
+        <!-- STATUS -->
+        <label for="authorsInputStatus" class="form-label">Statut</label>
+        <select id="authorsInputStatus"
+                class="form-control"
+                name="status" value="<%= author.status %>">
+
+                <option>Plainte</option>
+                <option>Avis</option>
+                <option>Autre</option>
+
+            </select>
+        <br>
+    </div>
+</div>
+
 
 

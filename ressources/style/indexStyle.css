@@ -1,0 +1,76 @@
+/* NAV */
+
+nav{
+    background: #121212;
+    z-index: 1;
+}
+
+#navHolder li, #footerHolder li{
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 150px;
+    margin-bottom: 20px;
+    transition: 0.1s;
+}
+
+#navHolder a{
+    color: white;
+    text-decoration: none;
+    font-weight: 420;
+}
+
+#navHolder li:hover{
+    transform: scale(1.2);
+}
+
+
+/* FOOTER */
+
+footer{
+    z-index: 2;
+}
+
+#footerHolder{
+    position: fixed;
+    bottom: 0;
+}
+
+#footerHolder a{
+    color: black;
+    text-decoration: none;
+}
+
+
+/* INDEX */
+
+#indexCarousel{
+    z-index: 0;
+    width: 150%;
+    margin-left: -25%;
+    margin-top: -16px;
+}
+
+#indexCarousel img{
+    margin: 0;
+    height: 900px;
+}
+
+.carouphrase, .caroutexte {
+    font-size: 4.20em;
+    text-shadow: 2px 2px 10px black;
+}
+
+.carouinfos{
+    margin-bottom: 350px;
+}
+
+#indexFooter li{
+    color: white;
+    vertical-align: top;
+    display: inline-block;
+    margin: 20px;
+}
+
+#indexFooter a{
+    color: white;
+}

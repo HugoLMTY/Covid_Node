@@ -1,0 +1,11 @@
+<h2 style="text-align: center;"> Créer un compte </h2>
+
+<form action="/users/register" method="POST" autocomplete="off">
+
+    <%- include('register_form_fields') %>
+    <br>
+    <br>
+
+    <a class="btn btn-outline-secondary" href="/users/login">Se connecter</a>
+    <button type="submit" class="btn btn-context">Créer son compte</button>
+</form>

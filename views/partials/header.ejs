@@ -1,28 +1,31 @@
 <nav>
-    <a href="/">
-        Spread Lies <br> Not Covid
-    </a>
+    <ul id="navHolder">
+            <a href="/" style="margin-right: 300px; font-weight: bold;">Spread Truth <br> Not Covid</a>
 
-    <ul>
-        <li style="display: inline-block; vertical-align: top; color: white; margin: 5px;">
-            <a href="/">Index</a>
+        <li>
+            <a href="/authors">Blog Anonyme</a>
         </li>
 
-        <li style="display: inline-block; vertical-align: top; color: white; margin: 5px;">
-            <a href="/authors">Authors</a>
-        </li>
-        
-        <li style="display: inline-block; vertical-align: top; color: white; margin: 5px;">
-            <a href="/authors/new">New authors</a>
+        <li>
+            <a href="/vaccines">Secret Vax</a>
         </li>
 
-        <li style="display: inline-block; vertical-align: top; color: white; margin: 5px;">
-            <a href="/vaccination">Vaccines</a>
+        <li>
+            <a href="/regions">Baguette Vax</a>
         </li>
 
-        <li style="display: inline-block; vertical-align: top; color: white; margin: 5px;">
-            <a href="/vaccines/new">New vax</a>
-        </li>
 
+        <% if (locals.isConnected == null) { %>
+            <li>
+                <a href="/users/register">Créer un compte </a>
+                <span>/</span>
+                <a href="/users/login"> Se connecter</a>
+            </li>
+        <% } else { %>
+            <li>
+                <a href="/users/">Profil</a>
+            </li>
+        <% } %>
     </ul>
 </nav>
+

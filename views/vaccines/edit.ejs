@@ -1,0 +1,11 @@
+<h2 style="text-align: center;"> New Vax </h2>
+<br>
+
+<form action="/vaccines/edited" method="POST">
+    
+    <%- include('form_fields') %>
+    <br>
+    
+    <a href="/vaccines" class="btn btn-secondary">Annuler</a>
+    <button type="submit" name="VaxEditID" value="<%= vaccine.id %>" class="btn btn-context">Enregistrer les modifications</button>
+</form>

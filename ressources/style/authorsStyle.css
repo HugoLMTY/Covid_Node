@@ -1,0 +1,22 @@
+.authorsListBody{
+    transition: 0.1s;
+}
+
+#authorBody{
+    height: 150%;
+    padding: 5px;
+    margin: 10px;
+}
+
+#authorsListHead{
+    text-align: center;
+    font-style: italic;
+    font-size: 1.3em;
+    height: 70px;
+}
+
+
+.authorsListBody:hover{
+    border-radius: 10px;
+    transform: scale(1.05);
+}

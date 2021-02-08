@@ -1,11 +1,52 @@
-<label>Nom</label>
-<input type="text" name="name" value="<%= vaccine.name %>">
+<div class="row">
 
-<label>Compte</label>
-<input type="number" name="totalVaccines" value="<%= vaccine.totalVaccines %>">
+    <% if (locals.statusEdit){ %>
+        <div class="col-6">
+            <!-- ID -->
+            <label for="inputVaxID" class="form-label">ID</label>
+            <input id="inputVaxID" type="text" 
+                    class="form-control" disabled required
+                    name="VaxID" value="<%= vaccine.id %>">
+            <br>
+        </div>
+    <% } else { } %>
 
-<label>Date</label>
-<input type="datetime" name="date" value="<%= vaccine.code %>">
 
-<label>Code</label>
-<input type="text" name="code" value="<%= vaccine.date %>">
+    <div class="col-6">
+        <!-- NAME -->
+        <label for="inputVaxName" class="form-label">Nom</label>
+        <input id="inputVaxName" type="text" 
+                class="form-control" required
+                name="VaxName" value="<%= vaccine.name %>">
+        <br>
+    
+    </div>
+    <div class="col-6">
+        <!-- TOTAL -->
+        <label for="inputVaxTotal" class="form-label">Total</label>
+        <input id="inputVaxTotal" type="number" 
+                class="form-control" required
+                name="VaxTotal" min="1" value="<%= vaccine.totalVaccines %>">
+        <br>
+    </div>
+    <div class="col-6">
+        
+        <!-- CODE -->
+        <label for="inputVaxCode" class="form-label">Code</label>
+        <input id="inputVaxCode" type="number" 
+                class="form-control" required
+                name="VaxCode" value="<%= vaccine.code %>">
+        <br>
+    </div>
+
+    <div class="col-6">
+        <!-- DATE -->
+        <label for="inputVaxDate" class="form-label">Date</label>
+        <input id="inputVaxDate" type="date" 
+                class="form-control"
+                name="VaxDate" value="<%= vaccine.date == null ? 'Erreur' : vaccine.date.toISOString().split('T')[0]%>">
+        <br>
+    </div>
+</div>
+
+

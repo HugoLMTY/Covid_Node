@@ -1,12 +1,12 @@
 const mongoose = require('mongoose')
 
-const authorSchema = new mongoose.Schema({
-    name: {
+const friendSchema = new mongoose.Schema({
+    user1: {
         type: String,
         required: true
     },
-    age: {
-        type: Number,
+    user2: {
+        type: String,
         required: true
     },
 
@@ -16,4 +16,4 @@ const authorSchema = new mongoose.Schema({
     }
 })
 
-module.exports = mongoose.model('Author', authorSchema)
+module.exports = mongoose.model('Friend', friendSchema)

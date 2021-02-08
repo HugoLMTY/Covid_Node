@@ -1,11 +1,41 @@
-<h2> Covid is just a hoax </h2>
+<h2 style="text-align: center;">Is Covid just a hoax ?</h2>
+
+<a class="btn btn-context" href="/authors/new">Poster anonymement</a>
+<br>
+<br>
 
 <form action="/authors" method="GET">
-    <label>Find your antimasker</label>
-    <input type="text" name="name" value="<%= searchOptions.name%>">
-    <button type="submit">Find</button>
+    <label for="authorsFindInput" class="form-label">Filtrer les posts</label>
+    <div class="row">
+        <input id="authorsFindInput" type="text" name="name" 
+            class="form-control col m-2" style="display: inline-block;"
+            value="<%= searchOptions.name%>">
+        <button type="submit" class="btn btn-context col-3  m-2">Rechercher</button>
+    </div>
 </form>
 
-<% authors.forEach(author => { %>
-    <div><%= author.name %></div>
-<% }) %>
+<table id="authorsList" style="width: 100%;">
+    <thead id="authorsListHead">
+        <tr id="authorsListTitle">
+            <th style="text-align: center; width: 800px;"> Messsage </th>
+
+            <th style="text-align: center;"> Âge </th>
+
+            <th style="text-align: center;"> Type </th>
+        </tr>
+    </thead>
+    <% authors.forEach(author => { %>
+        <tbody id="authorBody">
+            <tr id="<%= author.id %>" class="authorsListBody">
+                <th><%= author.name %></th>
+                <th style="text-align: center;"><%= author.age %></th>
+                <th style="text-align: center;"><%= author.status %></th>
+            </tr>
+            <tr>
+                <th colspan="5">
+                    <hr class="my-4"></hr>
+                </th>
+            </tr>
+        </tbody>
+        <% }) %>
+</table>

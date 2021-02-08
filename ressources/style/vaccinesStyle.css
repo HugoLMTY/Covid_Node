@@ -1,0 +1,25 @@
+.vaccinesListBody{
+    transition: 0.1s;
+    height: 120%;
+}
+
+
+#vaccinesListHead{
+    text-align: center;
+    font-style: italic;
+    font-size: 1.6em;
+    height: 50px;
+}
+
+#vaccinesListHead th{
+    width: 150px;
+    text-align: center;
+}
+
+
+.vaccinesListBody:hover{
+    box-shadow: 1px 1px 10px #00bfff;
+    border-radius: 10px;
+    transform: scale(1.05);
+}
+

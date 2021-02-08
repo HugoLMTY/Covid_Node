@@ -1,0 +1,55 @@
+<h2 style="text-align: center;"> Baguette Vax </h2>
+<br>
+<br>
+<div class="row">
+
+    <div class="col-1">
+    </div>
+    <div class="col-4" style="margin-right: 42px;">
+        <form action="/regions" method="get">
+            
+            <h4 style="text-align: center;">Filtrer les résultats</h4>
+            <br>
+
+            <%- include('_form_fields') %>
+            
+            <button type="submit" class="btn btn-context" >Rechercher</button>
+        </form>
+    </div>
+
+
+    <div class="col-6"  id="regionHolder">
+        <table>
+            <thead>
+                <tr class="regionInfos">
+                    <th style="width: 690px;"> Nom </th>
+                    <th> Vaccins </th>
+                    <th> Code </th>
+                    <th> Date </th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <% if (Regions == '') { %>
+                    <tr>
+                        <th style="text-align: center; margin-top: 420px; font-size: 1.5em; height: 210px; color: gray; font-style: italic;" colspan="4">Aucun résultat</th>
+                    </tr>
+
+                <% } else { %>
+
+                <% Regions.forEach(region => { %>      
+                <tr>
+                    <th> <%= region.nom %> </th>
+                    <th> <%= region.totalVaccines %> </th>
+                    <th> <%= region.code %> </th>
+                    <th> <%= region.date %> </th>
+                </tr>
+                <% }) }%>
+        
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

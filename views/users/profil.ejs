@@ -1,0 +1,60 @@
+<div class="jumbotron">
+    <h1 class="display-4">Bienvenue, <%= locals.uname %> </h1>
+    <p class="lead">Super profil rien à redire, un vrai truc de bogoss</p>
+    <hr class="my-4">
+    <p></p>
+    <p class="lead">
+      
+    </p>
+  </div>
+
+  <div class="row">
+    <div class="col-4">
+      <div class="list-group" id="list-tab" role="tablist">
+        <a class="list-group-item list-group-item-action active" id="list-home-list" data-bs-toggle="list" href="#list-home" role="tab" aria-controls="home"> <i class="bi bi-person-circle"></i> - Profil </a>
+        <a class="list-group-item list-group-item-action" id="list-friends-list" data-bs-toggle="list" href="#list-friends" role="tab" aria-controls="friends"> <i class="bi bi-people-fill"></i> - Ajouter des amis </a>
+
+        <% if ( locals.ReceivedCount == 0 ) {%>
+        <a class="list-group-item list-group-item-action" id="list-requests-list" data-bs-toggle="list" href="#list-requests" role="tab" aria-controls="requests"><i class="bi bi-person-lines-fill"></i> - Liste d'amis </span></a>
+        <% } else {%>
+        <a class="list-group-item list-group-item-action" id="list-requests-list" data-bs-toggle="list" href="#list-requests" role="tab" aria-controls="requests"><i class="bi bi-person-lines-fill"></i> - Liste d'amis <span class="badge bg-info"> <%= ReceivedCount %></span></a>
+        <% } %>
+        <a class="list-group-item list-group-item-action" id="list-settings-list" data-bs-toggle="list" href="#list-settings" role="tab" aria-controls="settings"> <i class="bi bi-tools"></i> - Réglagles </a>
+        <a class="list-group-item list-group-item-action" style="text-align: center;" href="/users/logout">Se déconnecter</a>
+        
+      </div>
+    </div>
+    <div class="col-8" id="profilHolder">
+      <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
+            <!-- HOME -->
+            profil
+            
+        </div>
+        <div class="tab-pane fade" id="list-friends" role="tabpanel" aria-labelledby="list-friends-list">
+            <!-- FRIENDS -->
+
+            <%- include('_friends') %>
+
+        </div>
+        <div class="tab-pane fade" id="list-requests" role="tabpanel" aria-labelledby="list-requests-list">
+            <!-- REQUEST -->
+            <%- include('_friendsList') %>
+
+      </div>
+
+        <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
+            <!-- SETTINGS -->
+            <%- include('_settings') %>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+
+  
+  
+  

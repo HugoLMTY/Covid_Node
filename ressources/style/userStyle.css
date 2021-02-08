@@ -1,0 +1,17 @@
+#profilHolder thead{
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+.userInfos{
+    transition: 0.1s;
+    padding: 5px;
+}
+
+.userInfos:hover{
+    box-shadow: 1px 1px 10px #00bfff;
+    border-radius: 10px;
+    transform: scale(1.05);
+}

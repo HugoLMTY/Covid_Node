@@ -1,0 +1,39 @@
+<button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#userDeleteAccountModal">
+    Supprimer le compte
+  </button>
+
+<!-- Modal -->
+<form action="users/delete" method="POST">
+<div class="modal fade" id="userDeleteAccountModal" tabindex="-1" aria-labelledby="userDeleteAccountModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="userDeleteAccountModalLabel">Confirmation de suppression</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          Entrez le nom de compte pour pouvoir le supprimer. <br> Cette actione est irréversible
+          <input type="text" id="validationCheck" class="form-control">
+          <input type="text" name="deleteUser" id="validate" value="<%= uname %>" style="display: none;">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+          <button type="submit" id="validateBtn" class="btn btn-context disabled">Confirmer la suppression</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#validationCheck').keyup(function() {
+        if ($(this).val() == $('#validate').val()) {
+            $('#validateBtn').removeClass('disabled')
+        } else {
+            $('#validateBtn').addClass('disabled')
+        }
+    })
+})
+</script>
