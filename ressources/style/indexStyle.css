@@ -21,10 +21,9 @@ nav{
     font-weight: 420;
 }
 
-#navHolder li:hover{
-    transform: scale(1.2);
+#navHolder a:hover{
+    color: #0cccd3;
 }
-
 
 /* FOOTER */
 
@@ -52,9 +51,10 @@ footer{
 
 #indexCarousel{
     z-index: 0;
-    width: 150%;
-    margin-left: -25%;
+    width: 146.9%;
+    margin-left: -23.5%;
     margin-top: -16px;
+    overflow-y: hidden;
 }
 
 #indexCarousel img{
