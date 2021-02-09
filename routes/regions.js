@@ -71,6 +71,11 @@ router.get('/', async (req, res) => {
             }
             currentSort = 'Date ↓'
             break;
+        case 'sort_blank_':
+            sortOption = {
+            }
+            currentSort = '-'
+            break;
             
     }
 
@@ -134,7 +139,7 @@ router.get('/', async (req, res) => {
 //         date: req.body.RegionDate,
 //         code: 'REG-00',
 //         nom: 'Somewhere',
-//         totalVaccines: 420
+//         totalVaccines: 1
 //     }) 
 //     console.log(region)
 //     try {

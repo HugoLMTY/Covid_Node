@@ -2,10 +2,11 @@
     transition: 0.1s;
 }
 
-#authorBody{
-    height: 150%;
+.authorBody{
+    height: 150px;
     padding: 5px;
     margin: 10px;
+    overflow: scroll;
 }
 
 #authorsListHead{

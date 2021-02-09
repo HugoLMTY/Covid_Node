@@ -280,6 +280,4 @@ router.post('/delete', async (req,res) => {
     return res.render('index/')
 })
 
-
-
 module.exports = router 

@@ -15,9 +15,9 @@
             <form action="/users/actionInvite" method="POST">
             <tbody>
                 <tr>
-                    <th> <%= user.name %> </th>
-                    <th> <%= user.mail %> </th>
-                    <th>
+                    <td> <%= user.name %> </td>
+                    <td> <%= user.mail %> </td>
+                    <td>
                         <input name="receivedName" style="display: none;" value="<%= user.name %>"> 
                         <input name="receivedID" style="display: none;" value="<%= user.id %>"> 
                         <button type="submit" name="userInvite" value="true" class="btn btn-context"
@@ -28,7 +28,7 @@
                          value="<%= user._id %>">
                             Refuser
                         </button>
-                    </th>
+                    </td>
                 </tr>
             </tbody>
         </form>
@@ -61,14 +61,14 @@
                 <form action="/users/deleteInvite" method="POST">
                 <tbody>
                     <tr>
-                        <th> <%= user.name %> </th>
-                        <th> <%= user.mail %> </th>
-                        <th> 
+                        <td> <%= user.name %> </td>
+                        <td> <%= user.mail %> </td>
+                        <td> 
                             <button type="submit" name="userDeleteInviteID" class="btn btn-context"
                              value="<%= user.id %>">
                                 Supprimer
                             </button>
-                        </th>
+                        </td>
                     </tr>
                 </tbody>
                 </form>
